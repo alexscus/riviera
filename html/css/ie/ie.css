@@ -1,0 +1,7 @@
+﻿/*{ behavior: url(html/js/PIE.htc);}*/
+/*
+*+html { behavior: url("html/js/display-table.min.htc");} 
+*+html { -dt-display:table;}
+*+html { -dt-display: table-cell; text-align:center;}
+*/
+*+html .cf {*zoom: 1;}
